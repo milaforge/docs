@@ -6,11 +6,11 @@
 
 ## Engineering
 
-* [Full-Stack Software Engineering](engineering/full-stack-software-engineering.md)
+* [Full-Stack](engineering/full-stack-software-engineering/README.md)
+  * [Work](engineering/full-stack-software-engineering/work/README.md)
+    * [Building a React.js Application](engineering/full-stack-software-engineering/work/building-a-react.js-application.md)
 
 ## Security
-
-***
 
 * [Security Engineering & Secure Software](security-engineering-and-secure-software.md)
 
@@ -20,9 +20,8 @@
 
 ## Case Studies
 
-***
-
-* [Software Engineering Case Studies](software-engineering-case-studies.md)
+* [Engineering](software-engineering-case-studies.md)
+* [Business](case-studies/business.md)
 
 ## Writing
 

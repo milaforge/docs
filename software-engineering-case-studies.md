@@ -1,10 +1,12 @@
 ---
-description: >-
-  Case studies of software development, architecture, security, production
-  systems, MVPs, and legacy modernization.
+description: How did I solve Engineering problems
+tags:
+  - case-study
 ---
 
-# Software Engineering Case Studies
+# Engineering
+
+Case studies of software development, architecture, security, production systems, MVPs, and legacy modernization.
 
 These are detailed accounts of real projects and technical problems.
 
@@ -23,5 +25,3 @@ Rather than presenting projects as lists of technologies, I document the situati
 * Technical decisions with competing tradeoffs
 
 Each case study is different because the problem determines the solution.
-
-**Browse case studies →**

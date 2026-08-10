@@ -17,3 +17,9 @@
   label: landing
   icon: compass
   color: cyan
+- tag: frontend
+  label: frontend
+  color: cyan
+- tag: case-study
+  label: case-study
+  color: cyan
