@@ -20,7 +20,8 @@
 
 ## Case Studies
 
-* [Engineering](software-engineering-case-studies.md)
+* [Engineering](case-studies/software-engineering-case-studies/README.md)
+  * [Policy as Code for Pull Requests](case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md)
 * [Business](case-studies/business.md)
 
 ## Writing
