@@ -27,4 +27,4 @@
 ## Writing
 
 * [Engineering, Security & Technology Writing](writing/engineering-security-and-technology-writing.md)
-* [Why GitHub Branch Protection Isn't Enough for Repository Governance](writing/why-github-branch-protection-isnt-enough-for-repository-governance.md)
+* [GitHub PR Policies: Beyond Branch Protection](writing/github-pr-policies-beyond-branch-protection.md)

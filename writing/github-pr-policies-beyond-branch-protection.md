@@ -1,11 +1,10 @@
 ---
 description: >-
-  GitHub branch protection secures the merge boundary, but repository governance
-  often requires change-aware rules. Explore where branch protection, rulesets,
-  CODEOWNERS, and policy as code fit.
+  Branch protection handles global merge rules. Pull request policies enforce
+  requirements based on what changes in a pull request.
 ---
 
-# Why GitHub Branch Protection Isn't Enough for Repository Governance
+# GitHub PR Policies: Beyond Branch Protection
 
 GitHub branch protection is good at enforcing **global rules**:
 
@@ -26,7 +25,7 @@ For example:
 
 These aren't global branch rules. They are **change-specific policies**.
 
-#### Three different problems
+### Three different problems
 
 It helps to separate them:
 
@@ -40,7 +39,7 @@ The third category is easy to leave as documentation or team convention.
 
 That's where things become fragile.
 
-#### From conventions to executable policy
+### From conventions to executable policy
 
 Instead of documenting:
 
@@ -66,7 +65,7 @@ Now the rule is:
 
 The important idea isn't YAML. It's that **repository-specific engineering rules become executable**.
 
-#### The boundary
+### The boundary
 
 This doesn't replace GitHub's existing controls.
 
