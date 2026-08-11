@@ -79,6 +79,8 @@ Use security tooling for security findings.
 
 Use change-aware policy when the requirement depends on **what a pull request changes**.
 
-That is the gap I wanted to explore with [**Pull Request Policy**](https://github.com/milaforge/pull-request-policy): a small GitHub Action for defining conditional pull-request rules as code.
+***
 
-**Related Case  Study:** [policy-as-code-for-pull-requests.md](../case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md "mention")
+### **See the implementation**
+
+I explored this approach in GitHub [Pull Request Policy: Enforcing Conditional Repository Rules](../case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md) — a GitHub Action for defining change-aware pull request policies as code.

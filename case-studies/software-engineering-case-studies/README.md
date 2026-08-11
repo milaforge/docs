@@ -1,5 +1,5 @@
 ---
-description: How did I solve Engineering problems
+description: How did I solve Engineering problems; the specific implementation.
 tags:
   - case-study
 ---

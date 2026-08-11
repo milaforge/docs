@@ -1,12 +1,10 @@
 ---
-description: 'GitHub Pull Request Policy: Enforcing Conditional Repository Rules'
+description: >-
+  A policy-as-code GitHub Action for enforcing engineering and security rules
+  based on what a pull request changes.
 ---
 
 # Policy as Code for Pull Requests
-
-A policy-as-code GitHub Action for enforcing engineering and security rules based on what a pull request changes.
-
-{% embed url="https://github.com/milaforge/pull-request-policy" %}
 
 ### The problem
 
@@ -178,4 +176,12 @@ That is the broader idea behind the project: **policy as code at the pull-reques
 
 > Open-source GitHub Action for defining and enforcing conditional pull-request policies in YAML.
 
-[View the project on Github](https://github.com/milaforge/pull-request-policy).
+<p align="center"><a href="https://github.com/milaforge/pull-request-policy">View the project on Github</a>.</p>
+
+{% embed url="https://github.com/milaforge/pull-request-policy" %}
+
+***
+
+### Background: Pull Request Policies
+
+[github-pr-policies-beyond-branch-protection.md](../../writing/github-pr-policies-beyond-branch-protection.md "mention") — the problem and reasoning behind this project.
