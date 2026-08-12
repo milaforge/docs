@@ -25,7 +25,7 @@
   * [Policy as Code for Pull Requests](case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md)
 * [Business](case-studies/business.md)
 
-## Writing
+## think
 
-* [Beyond Branch Protection](writing/beyond-branch-protection.md)
-* [Finding security Vulnerability in libp2p](writing/finding-security-vulnerability-in-libp2p.md)
+* [Beyond Branch Protection](think/beyond-branch-protection.md)
+* [Finding security Vulnerability in libp2p](think/finding-security-vulnerability-in-libp2p.md)

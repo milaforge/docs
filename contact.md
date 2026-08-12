@@ -1,6 +1,6 @@
 ---
 description: Reach out to me
-icon: handshake
+icon: envelope
 ---
 
 # Contact
