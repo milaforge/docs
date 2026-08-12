@@ -8,11 +8,11 @@
 
 * [Full-Stack](engineering/full-stack-software-engineering.md)
 * [Building a React.js Application](engineering/building-a-react.js-application.md)
-* [Open Source](engineering/open-source.md)
+* [Rust](engineering/rust.md)
 
 ## Security Engineering
 
-* [Secure Software](security-engineering/security-engineering-and-secure-software.md)
+* [Secure Software](security-engineering/secure-software.md)
 * [Security Research & Auditing](security-engineering/security-research-and-auditing.md)
 
 ## Founding
@@ -27,6 +27,5 @@
 
 ## Writing
 
-* [Engineering, Security & Technology Writing](writing/engineering-security-and-technology-writing.md)
 * [Beyond Branch Protection](writing/beyond-branch-protection.md)
 * [Finding security Vulnerability in libp2p](writing/finding-security-vulnerability-in-libp2p.md)

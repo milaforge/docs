@@ -3,6 +3,7 @@ description: >-
   This development log documents the incremental development of a fully
   client-side React.js application using TypeScript, Vite, React Router,
   Tailwind CSS, Vitest, GitHub Actions, GitHub Pages, and loc
+icon: typescript
 coverY: 0
 coverHeight: 139
 layout:

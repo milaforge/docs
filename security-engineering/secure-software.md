@@ -1,5 +1,6 @@
 ---
 description: How do I build software securely?
+icon: lock
 ---
 
 # Secure Software

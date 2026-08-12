@@ -7,8 +7,6 @@ icon: user-vneck
 
 # About
 
-***
-
 ### I build software
 
 * **An idea that needs to become real**\
