@@ -2,9 +2,11 @@
 description: >-
   Branch protection handles global merge rules. Pull request policies enforce
   requirements based on what changes in a pull request.
+tags:
+  - engineering
 ---
 
-# GitHub PR Policies: Beyond Branch Protection
+# Beyond Branch Protection
 
 GitHub branch protection is good at enforcing **global rules**:
 

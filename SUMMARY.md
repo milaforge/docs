@@ -6,13 +6,14 @@
 
 ## Engineering
 
-* [Full-Stack](engineering/full-stack-software-engineering/README.md)
-  * [Work](engineering/full-stack-software-engineering/work/README.md)
-    * [Building a React.js Application](engineering/full-stack-software-engineering/work/building-a-react.js-application.md)
+* [Full-Stack](engineering/full-stack-software-engineering.md)
+* [Building a React.js Application](engineering/building-a-react.js-application.md)
+* [Open Source](engineering/open-source.md)
 
-## Security
+## Security Engineering
 
-* [Security Engineering & Secure Software](security-engineering-and-secure-software.md)
+* [Secure Software](security-engineering/security-engineering-and-secure-software.md)
+* [Security Research & Auditing](security-engineering/security-research-and-auditing.md)
 
 ## Founding
 
@@ -27,4 +28,5 @@
 ## Writing
 
 * [Engineering, Security & Technology Writing](writing/engineering-security-and-technology-writing.md)
-* [GitHub PR Policies: Beyond Branch Protection](writing/github-pr-policies-beyond-branch-protection.md)
+* [Beyond Branch Protection](writing/beyond-branch-protection.md)
+* [Finding security Vulnerability in libp2p](writing/finding-security-vulnerability-in-libp2p.md)

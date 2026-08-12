@@ -1,11 +1,12 @@
 ---
 description: >-
-  Full-stack software engineering covering application development,
-  architecture, production systems, code review, performance, and legacy
-  modernization.
+  How I build or approach engineering problems and make decisions under
+  constraints.
 ---
 
 # Full-Stack
+
+> Full-stack software engineering covering application development, architecture, production systems, code review, performance, and legacy modernization.
 
 I build and evolve software across the stack—from user-facing applications and APIs to databases, infrastructure, and production systems.
 
