@@ -29,3 +29,4 @@
 
 * [Beyond Branch Protection](think/beyond-branch-protection.md)
 * [Finding security Vulnerability in libp2p](think/finding-security-vulnerability-in-libp2p.md)
+* [Secure by Design: Before You Build](think/secure-by-design-before-you-build.md)
