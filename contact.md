@@ -1,5 +1,5 @@
 ---
-description: Reach out to me
+description: Let's connect!
 icon: envelope
 ---
 
