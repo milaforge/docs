@@ -22,6 +22,8 @@
 * [How to Build an MVP](founding/how-to-build-an-mvp.md)
 * [How to Find a Technical Co-Founder: What to Look For](founding/how-to-find-a-technical-co-founder-what-to-look-for.md)
 * [Technical Co-Founder vs CTO: Which One Does a Startup Need?](founding/technical-co-founder-vs-cto-which-one-does-a-startup-need.md)
+* [After Building an MVP](founding/after-building-an-mvp.md)
+* [MVP to Production: What Changes After Your MVP Works](founding/mvp-to-production-what-changes-after-your-mvp-works.md)
 
 ## Case Studies
 
