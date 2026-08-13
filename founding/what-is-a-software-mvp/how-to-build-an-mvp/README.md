@@ -55,7 +55,7 @@ Depending on the product, you might work with:
 
 Choosing the right technical person can be as important as defining the MVP itself.
 
-See [How to Find a Technical Co-Founder](https://chatgpt.com/g/g-p-6a7839dbc6f08191b93f41935a85363f-gitbook/technical-founder/how-to-find-a-technical-cofounder).
+See [How to Find a Technical Co-Founder](technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md).
 
 ### 4. Build for learning, not completeness
 
