@@ -18,6 +18,8 @@
 ## Founding
 
 * [Building from Scratch](founding/technical-founder-and-product-engineering.md)
+* [What Is an MVP in Software Development?](founding/what-is-an-mvp-in-software-development.md)
+* [How to Build an MVP](founding/how-to-build-an-mvp.md)
 * [How to Find a Technical Co-Founder: What to Look For](founding/how-to-find-a-technical-co-founder-what-to-look-for.md)
 
 ## Case Studies
