@@ -1,3 +1,11 @@
+---
+description: >-
+  Learn how to build an MVP for a startup, from defining the problem and
+  choosing features to finding the right developer and avoiding common mistakes.
+tags:
+  - technical-founder
+---
+
 # How to Build an MVP
 
 If you have a product idea and want to test whether people will actually use it, you do not need to build the complete product first.

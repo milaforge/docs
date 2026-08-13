@@ -2,6 +2,8 @@
 description: >-
   Learn what an MVP in software development is, why startups build one, and how
   it helps test a business idea before investing in a full product.
+tags:
+  - technical-founder
 ---
 
 # What Is an MVP in Software Development?

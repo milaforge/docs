@@ -3,6 +3,8 @@ description: >-
   A practical guide to finding a technical co-founder or startup CTO, with a
   focus on ownership, technical judgment, architecture, security, and
   decision-making.
+tags:
+  - technical-founder
 ---
 
 # How to Find a Technical Co-Founder: What to Look For
