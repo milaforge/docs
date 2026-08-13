@@ -4,10 +4,134 @@ description: >-
   deployment, infrastructure, maintenance, and scaling.
 ---
 
-# Technical Partner / Software Developer  for Early-Stage Startups
+# Build Software That Holds Up
 
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Already built a prototype with AI?</strong><br>I turn vibe-coded MVPs into production-ready software.</td><td><a href="contact.md">contact.md</a></td><td><a href="https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxzb2Z0d2FyZSUyMGRlbW98ZW58MHx8fHwxNzg2NjEwOTczfDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxzb2Z0d2FyZSUyMGRlbW98ZW58MHx8fHwxNzg2NjEwOTczfDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
+### Move your MVP to production
 
-### Explore my work
+Already built a prototype with AI?
 
-<table data-view="cards"><thead><tr><th align="center"></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><h4>Engineering</h4></td><td>Software engineering for teams that need someone who can work across the stack, understand existing systems, make sound technical decisions, and take software into production.</td><td><a href="https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/engineering">https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/engineering</a></td><td data-object-fit="contain"><a href=".gitbook/assets/engineering.png">engineering.png</a></td></tr><tr><td align="center"><strong>Security</strong></td><td>Security work that starts before an incident: understanding how systems can fail or be abused, reducing risk during development, and helping investigate and recover when things go wrong.</td><td><a href="https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/security">https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/security</a></td><td data-object-fit="contain"><a href=".gitbook/assets/security_min.png">security_min.png</a></td></tr><tr><td align="center"><h4>Technical Founding</h4></td><td>Turning ideas and working demos into useful products, taking MVPs into production, and helping software evolve as the business and its users grow.</td><td><a href="https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/founding">https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/founding</a></td><td><a href=".gitbook/assets/founder_min.png">founder_min.png</a></td></tr><tr><td align="center"><h3>Case Studies</h3></td><td>Real projects and technical problems, including what happened, what I found, what I changed, and what I learned.</td><td><a href="https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/case-studies">https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/case-studies</a></td><td data-object-fit="contain"><a href=".gitbook/assets/cases_min.png">cases_min.png</a></td></tr><tr><td align="center"><h3>Writing</h3></td><td>Technical notes, ideas, architecture discussions, security research, code reviews, experiments, and opinions.</td><td><a href="https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/writing">https://app.gitbook.com/s/dQ20orU9p8aAk0Nqv1wD/writing</a></td><td data-object-fit="contain"><a href=".gitbook/assets/writing_min.png">writing_min.png</a></td></tr></tbody></table>
+Turn a working MVP into production-ready software with the architecture, testing, security, deployment, and infrastructure needed to support real users.
+
+[Get in touch](contact.md)
+
+## What Do You Need to Solve?
+
+<table data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th data-type="content-ref"></th>
+<th data-hidden data-card-cover data-type="image">Cover image</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>Build a production system</strong></td>
+<td>Design and build software that can be deployed, operated, tested, and maintained in the real world.</td>
+<td><a href="engineering.md">engineering.md</a></td>
+</tr>
+
+<tr>
+<td><strong>Secure an existing system</strong></td>
+<td>Understand attack surfaces, identify weaknesses, reduce risk, and build security into the development process.</td>
+<td><a href="security.md">security.md</a></td>
+</tr>
+
+<tr>
+<td><strong>Turn an idea into a product</strong></td>
+<td>Move from prototype to useful product with technical decisions that support the product as it evolves.</td>
+<td><a href="founding.md">founding.md</a></td>
+</tr>
+
+<tr>
+<td><strong>Understand a technical problem</strong></td>
+<td>Study real engineering problems, decisions, failures, trade-offs, and solutions through documented case studies.</td>
+<td><a href="case-studies.md">case-studies.md</a></td>
+</tr>
+
+<tr>
+<td><strong>Learn from engineering work</strong></td>
+<td>Explore technical notes, architecture discussions, security research, experiments, code reviews, and engineering lessons.</td>
+<td><a href="writing.md">writing.md</a></td>
+</tr>
+
+</tbody>
+</table>
+
+## Explore the Work
+
+<table data-view="cards">
+<thead>
+<tr>
+<th align="center"></th>
+<th></th>
+<th data-type="content-ref"></th>
+<th data-hidden data-card-cover data-type="image">Cover image</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td align="center"><strong>Engineering</strong></td>
+<td>Architecture, development, infrastructure, testing, deployment, maintenance, and production systems.</td>
+<td><a href="engineering.md">engineering.md</a></td>
+<td data-object-fit="contain"><a href=".gitbook/assets/engineering.png">engineering.png</a></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Security</strong></td>
+<td>Security engineering, attack surfaces, vulnerabilities, secure development, and failure analysis.</td>
+<td><a href="security.md">security.md</a></td>
+<td data-object-fit="contain"><a href=".gitbook/assets/security_min.png">security_min.png</a></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Technical Founding</strong></td>
+<td>Technical decisions for turning ideas and prototypes into products and evolving them as they grow.</td>
+<td><a href="founding.md">founding.md</a></td>
+<td><a href=".gitbook/assets/founder_min.png">founder_min.png</a></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Case Studies</strong></td>
+<td>Real projects, technical problems, decisions, implementations, failures, and lessons learned.</td>
+<td><a href="case-studies.md">case-studies.md</a></td>
+<td data-object-fit="contain"><a href=".gitbook/assets/cases_min.png">cases_min.png</a></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Writing</strong></td>
+<td>Technical notes, research, architecture discussions, experiments, code reviews, and engineering perspectives.</td>
+<td><a href="writing.md">writing.md</a></td>
+<td data-object-fit="contain"><a href=".gitbook/assets/writing_min.png">writing_min.png</a></td>
+</tr>
+
+</tbody>
+</table>
+
+## Open Engineering Knowledge Base
+
+This site is also an open-source engineering knowledge base.
+
+The material documents practical approaches to building, securing, and operating software. It is intended to be useful both as a reference and as a starting point for further discussion and contribution.
+
+You can:
+
+- Read and reuse the material.
+- Study the underlying reasoning and trade-offs.
+- Suggest corrections or improvements.
+- Add new subjects and technical material.
+- Contribute case studies, examples, and research.
+
+See [Contributing](CONTRIBUTING.md) to learn how to contribute.
+
+## From Problem to Evidence
+
+The goal is not simply to describe capabilities.
+
+Each area is backed by technical material, projects, experiments, and case studies that show how problems are approached and solved.
+
+**Problem → Capability → Evidence → Contact**
+
+[Explore the work](engineering.md) · [View case studies](case-studies.md) · [Get in touch](contact.md)
