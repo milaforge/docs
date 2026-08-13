@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Building, Securing, and Evolving Software](README.md)
+* [Building and Securing Software](README.md)
 * [Contact](contact.md)
 * [About](about.md)
 
@@ -17,7 +17,8 @@
 
 ## Founding
 
-* [Technical Founder & Product Engineering](founding/technical-founder-and-product-engineering.md)
+* [Building from Scratch](founding/technical-founder-and-product-engineering.md)
+* [How to Find a Technical Co-Founder: What to Look For](founding/how-to-find-a-technical-co-founder-what-to-look-for.md)
 
 ## Case Studies
 
