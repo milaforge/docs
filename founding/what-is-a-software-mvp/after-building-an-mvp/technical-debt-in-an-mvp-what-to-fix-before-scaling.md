@@ -2,11 +2,13 @@
 description: >-
   Learn which technical problems in an MVP should be fixed before scaling, how
   to prioritize technical debt, and when a rewrite is actually justified.
+tags:
+  - technical-founder
 ---
 
 # Technical Debt in an MVP: What to Fix Before Scaling
 
-An [MVP](../what-is-a-software-mvp.md) will usually contain shortcuts. That is not automatically a problem.
+An [MVP](../) will usually contain shortcuts. That is not automatically a problem.
 
 The important question before scaling is:
 
@@ -96,4 +98,4 @@ If you have just completed an MVP and are deciding what to do next, start with [
 
 ***
 
-Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../contact.md) to discuss the technical next steps.
+Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../../contact.md) to discuss the technical next steps.

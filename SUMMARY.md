@@ -18,13 +18,13 @@
 ## Founding
 
 * [Building a Startup from Scratch](founding/technical-founder-and-product-engineering.md)
-* [What Is a Software MVP?](founding/what-is-a-software-mvp.md)
-* [How to Build an MVP](founding/how-to-build-an-mvp/README.md)
-  * [Technical Co-Founder vs CTO: Which One Does a Startup Need?](founding/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/README.md)
-    * [How to Find a Technical Co-Founder: What to Look For](founding/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md)
-* [After Building an MVP](founding/after-building-an-mvp/README.md)
-  * [MVP to Production: What Changes After Your MVP Works](founding/after-building-an-mvp/mvp-to-production-what-changes-after-your-mvp-works.md)
-  * [Technical Debt in an MVP: What to Fix Before Scaling](founding/after-building-an-mvp/technical-debt-in-an-mvp-what-to-fix-before-scaling.md)
+* [What Is a Software MVP?](founding/what-is-a-software-mvp/README.md)
+  * [How to Build an MVP](founding/what-is-a-software-mvp/how-to-build-an-mvp/README.md)
+    * [Technical Co-Founder vs CTO: Which One Does a Startup Need?](founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/README.md)
+      * [How to Find a Technical Co-Founder: What to Look For](founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md)
+  * [After Building an MVP](founding/what-is-a-software-mvp/after-building-an-mvp/README.md)
+    * [MVP to Production: What Changes After Your MVP Works](founding/what-is-a-software-mvp/after-building-an-mvp/mvp-to-production-what-changes-after-your-mvp-works.md)
+    * [Technical Debt in an MVP: What to Fix Before Scaling](founding/what-is-a-software-mvp/after-building-an-mvp/technical-debt-in-an-mvp-what-to-fix-before-scaling.md)
 
 ## Case Studies
 

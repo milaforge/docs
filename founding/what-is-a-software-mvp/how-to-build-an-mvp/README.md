@@ -12,7 +12,7 @@ If you have a product idea and want to test whether people will actually use it,
 
 > The goal is not to build a smaller version of the final product. It is to build **enough to test your most important assumptions**.
 
-An [**MVP (Minimum Viable Product)**](../what-is-a-software-mvp.md) is the smallest useful version of a product that lets you test your core idea with real users.
+An [**MVP (Minimum Viable Product)**](../) is the smallest useful version of a product that lets you test your core idea with real users.
 
 ## Building an MVP
 

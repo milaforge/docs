@@ -2,11 +2,13 @@
 description: >-
   Understand what it takes to move an MVP to production, including security,
   testing, deployment, monitoring, reliability, and maintainability
+tags:
+  - technical-founder
 ---
 
 # MVP to Production: What Changes After Your MVP Works
 
-An [**MVP**](../what-is-a-software-mvp.md) proves that a product can work. **Production software** needs to keep working reliably for real users.
+An [**MVP**](../) proves that a product can work. **Production software** needs to keep working reliably for real users.
 
 Moving from MVP to production is therefore not simply adding more features. It means making the existing product **safe, reliable, maintainable, and ready to operate at real-world usage**.
 
@@ -124,4 +126,4 @@ That shift is what turns an MVP into production software.
 
 ***
 
-Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../contact.md) to discuss the technical next steps.
+Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../../contact.md) to discuss the technical next steps.

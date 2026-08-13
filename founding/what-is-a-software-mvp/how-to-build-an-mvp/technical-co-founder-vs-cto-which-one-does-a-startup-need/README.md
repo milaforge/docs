@@ -2,6 +2,8 @@
 description: >-
   Understand the difference between a technical co-founder and CTO, including
   when a startup needs technical leadership, development capacity, or both.
+tags:
+  - technical-founder
 ---
 
 # Technical Co-Founder vs CTO: Which One Does a Startup Need?

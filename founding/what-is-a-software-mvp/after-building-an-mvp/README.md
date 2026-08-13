@@ -2,11 +2,13 @@
 description: >-
   What to do after building an MVP, including technical ownership, security,
   testing, deployment, maintenance, and preparing for real users.
+tags:
+  - technical-founder
 ---
 
 # After Building an MVP
 
-Once you have a working [**MVP**](../what-is-a-software-mvp.md), the next question is not necessarily “What feature should we build next?”
+Once you have a working [**MVP**](../), the next question is not necessarily “What feature should we build next?”
 
 First, determine whether the product is ready for **real users** and who will own the technology going forward.
 

@@ -89,7 +89,7 @@ It is understanding questions such as:
 
 These decisions are architectural decisions, not merely implementation details.
 
-[My own security work](../../../security-engineering/security-research-and-auditing.md#id-2.-near-threshold-signatures-security-research) has increasingly followed this kind of reasoning: start from the resource, identify who should be allowed to access it, minimize privileges, and design controls around the actual failure modes rather than assuming the happy path.
+[My own security work](../../../../security-engineering/security-research-and-auditing.md#id-2.-near-threshold-signatures-security-research) has increasingly followed this kind of reasoning: start from the resource, identify who should be allowed to access it, minimize privileges, and design controls around the actual failure modes rather than assuming the happy path.
 
 #### 4. Look at what someone does when there is no obvious answer
 
