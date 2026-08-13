@@ -12,7 +12,7 @@ Once you have a working [**MVP**](../), the next question is not necessarily “
 
 First, determine whether the product is ready for **real users** and who will own the technology going forward.
 
-### 1. Decide [who owns the technology](../how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/)
+### 1. Decide who owns the technology
 
 Someone needs to be responsible for technical decisions and ongoing development.
 
