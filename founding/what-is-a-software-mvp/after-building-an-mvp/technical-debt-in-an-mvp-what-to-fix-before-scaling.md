@@ -94,7 +94,7 @@ The goal is to make sure **technical debt does not become the constraint that pr
 
 If you are preparing an MVP for real users, see [mvp-to-production-what-changes-after-your-mvp-works.md](mvp-to-production-what-changes-after-your-mvp-works.md "mention") for the broader production requirements.
 
-If you have just completed an MVP and are deciding what to do next, start with [.](./ "mention") .
+If you have just completed an MVP and are deciding what to do next, start with [.](./ "mention").
 
 ***
 
