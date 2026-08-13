@@ -1,10 +1,12 @@
 ---
 description: >-
-  A generalist software engineer working across product development, full-stack
-  engineering, security, architecture, and production systems.
+  I take ownership of the technology—from architecture and development to
+  deployment, infrastructure, maintenance, and scaling.
 ---
 
-# Building, Securing, and Evolving Software
+# Technical Partner / Software Developer  for Early-Stage Startups
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Already built a prototype with AI?</strong><br>I turn vibe-coded MVPs into production-ready software.</td><td><a href="contact.md">contact.md</a></td><td><a href="https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxzb2Z0d2FyZSUyMGRlbW98ZW58MHx8fHwxNzg2NjEwOTczfDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1547658719-da2b51169166?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxzb2Z0d2FyZSUyMGRlbW98ZW58MHx8fHwxNzg2NjEwOTczfDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td></tr></tbody></table>
 
 ### Explore my work
 
