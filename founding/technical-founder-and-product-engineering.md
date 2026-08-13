@@ -63,7 +63,7 @@ You might build the MVP with:
 
 A technical co-founder is not simply a developer who writes the first version. The role usually includes deciding **what should be built, how it should be built, and how the technology should evolve with the business**.
 
-[how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-find-a-technical-co-founder-what-to-look-for.md "mention")
+[how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md "mention")
 
 ### 5. Build only what you need to learn
 
@@ -77,7 +77,7 @@ If the answer is unclear, the feature probably does not belong in the first vers
 
 This keeps development costs and time under control while making it easier to change direction when customers provide new information.
 
-[how-to-build-an-mvp.md](how-to-build-an-mvp.md "mention")
+[how-to-build-an-mvp](how-to-build-an-mvp/ "mention")
 
 ### 6. Plan for the next stage
 

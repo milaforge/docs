@@ -6,7 +6,7 @@ tags:
   - technical-founder
 ---
 
-# What Is an MVP in Software Development?
+# What Is a Software MVP?
 
 An **MVP (Minimum Viable Product)** is the simplest version of a software product that can be released to real users to test whether the idea is worth pursuing.
 
@@ -44,10 +44,12 @@ For example, a clickable design in Figma can be a prototype. A working web appli
 
 A founder can build an MVP with a full-stack software developer, a small development team, or a **technical co-founder**.
 
-If you are deciding whether you need a technical co-founder, see [how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-find-a-technical-co-founder-what-to-look-for.md "mention").
+If you are deciding whether you need a technical co-founder, see [how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md "mention").
 
 The important question is not _"How many features can we build?"_ but:
 
 > **What is the smallest product we can build that lets us test our most important assumption?**
 
 That is the purpose of an MVP.
+
+Learn more about [how-to-build-an-mvp](how-to-build-an-mvp/ "mention").

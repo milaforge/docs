@@ -6,23 +6,23 @@ description: >-
 
 # After Building an MVP
 
-Once you have a working [**MVP**](how-to-build-an-mvp.md), the next question is not necessarily “What feature should we build next?”
+Once you have a working [**MVP**](../what-is-a-software-mvp.md), the next question is not necessarily “What feature should we build next?”
 
 First, determine whether the product is ready for **real users** and who will own the technology going forward.
 
-### 1. Decide [who owns the technology](technical-co-founder-vs-cto-which-one-does-a-startup-need.md)
+### 1. Decide [who owns the technology](../how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/)
 
 Someone needs to be responsible for technical decisions and ongoing development.
 
 Depending on the product, this could be:
 
-* A [**technical co-founder**](how-to-find-a-technical-co-founder-what-to-look-for.md) when technology is central to the business
+* A [**technical co-founder**](../how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md) when technology is central to the business
 * A **startup CTO** when you need ongoing technical leadership and larger architectural decisions.
 * A **full-stack developer** if the product is relatively simple and the main need is implementation.
 
 The important part is clear technical ownership, not the title:
 
-[technical-co-founder-vs-cto-which-one-does-a-startup-need.md](technical-co-founder-vs-cto-which-one-does-a-startup-need.md "mention")
+[technical-co-founder-vs-cto-which-one-does-a-startup-need](../how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/ "mention")
 
 ### 2. Review the MVP before scaling it
 
