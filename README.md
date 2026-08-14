@@ -1,10 +1,14 @@
 ---
 description: >-
   I take ownership of the technology—from architecture and development to
-  deployment, infrastructure, maintenance, and scaling.
+  deployment, infrastructure, maintenance, securing and scaling.
 ---
 
-# Technical Partner / Software Developer for Early-Stage Startups
+<head>
+<meta name="google-site-verification" content="pbUVx76Z8RnrEeTO0aTG3JAtkSSnPk7mHZZ37J1p5LU" />
+</head>
+
+# Build Software That Holds Up
 
 ### Move your MVP to production
 
