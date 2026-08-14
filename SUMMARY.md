@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Technical Partner / Software Developer  for Early-Stage Startups](README.md)
+* [Technical Partner / Software Developer for Early-Stage Startups](README.md)
 * [Contact](contact.md)
 * [About](about.md)
 
@@ -12,7 +12,9 @@
 
 ## Security Engineering
 
-* [Secure Software](security-engineering/secure-software.md)
+* [Secure Software](security-engineering/secure-software/README.md)
+  * [Threat Modeling](security-engineering/secure-software/threat-modeling/README.md)
+    * [Trust Boundaries](security-engineering/secure-software/threat-modeling/trust-boundaries.md)
 * [Security Research & Auditing](security-engineering/security-research-and-auditing.md)
 
 ## Founding
