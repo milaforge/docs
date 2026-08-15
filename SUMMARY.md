@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Technical Partner / Software Developer for Early-Stage Startups](README.md)
+* [Software Engineering](README.md)
 * [Contact](contact.md)
 * [About](about.md)
 
@@ -21,6 +21,7 @@
 
 * [Building a Startup from Scratch](founding/technical-founder-and-product-engineering.md)
 * [What Is a Software MVP?](founding/what-is-a-software-mvp/README.md)
+  * [Prototype vs MVP](founding/what-is-a-software-mvp/prototype-vs-mvp.md)
   * [How to Build an MVP](founding/what-is-a-software-mvp/how-to-build-an-mvp/README.md)
     * [Technical Co-Founder vs CTO: Which One Does a Startup Need?](founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/README.md)
       * [How to Find a Technical Co-Founder: What to Look For](founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md)

@@ -36,7 +36,7 @@ Instead of spending months building a complete product based on assumptions, you
 
 An **MVP is usable software released to real users**.
 
-A **prototype** is usually created to explore or demonstrate an idea. It may not be a functioning product and may never be released publicly.
+A [**prototype**](./#mvp-vs.-prototype) is usually created to explore or demonstrate an idea. It may not be a functioning product and may never be released publicly.
 
 For example, a clickable design in Figma can be a prototype. A working web application that allows your first customers to use the core service is an MVP.
 
