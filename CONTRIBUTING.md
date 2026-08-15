@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for your interest in contributing to this repository that contains the documentation and case studies that showcase my work as a technical partner for early‑stage startups. Contributions can be new case studies, improvements to existing pages, additional resources, or fixes.
+Thank you for your interest in contributing to this repository that contains the public engineering knowledge base, with my personal engineering work as the source of the material. Your contributions can be new case studies, improvements to existing pages, additional resources, or fixes within your name.
 
 ---
 
