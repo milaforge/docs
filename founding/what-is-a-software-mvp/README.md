@@ -53,3 +53,5 @@ The important question is not _"How many features can we build?"_ but:
 That is the purpose of an MVP.
 
 Learn more about [how-to-build-an-mvp](how-to-build-an-mvp/ "mention").
+
+Further read what to do [after-building-an-mvp](after-building-an-mvp/ "mention").
