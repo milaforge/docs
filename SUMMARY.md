@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Software Engineering](README.md)
+* [Welcome](README.md)
 * [Contact](contact.md)
 * [About](about.md)
 
