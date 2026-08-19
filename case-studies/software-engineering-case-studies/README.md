@@ -1,27 +1,17 @@
 ---
-description: How did I solve Engineering problems; the specific implementation.
+description: >-
+  Replacing repetitive, manual, or error-prone work with reliable software
+  workflows.
 tags:
   - case-study
 ---
 
-# Engineering
+# Automation
 
-Case studies of software development, architecture, security, production systems, MVPs, and legacy modernization.
+I found work that depended too much on people remembering, checking, or repeating the same steps and turned it into an automated system.
 
-These are detailed accounts of real projects and technical problems.
+This section answers the question:
 
-Rather than presenting projects as lists of technologies, I document the situation, constraints, decisions, implementation, failures, and outcomes.
+> "Can I turn a manual or error-prone process into a reliable system?"
 
-### What you'll find
-
-* Building products from ideas and prototypes
-* Taking MVPs into production
-* Architecture decisions
-* Security analysis and threat modeling
-* Code and system reviews
-* Performance and reliability problems
-* Legacy system modernization
-* Production incidents and lessons learned
-* Technical decisions with competing tradeoffs
-
-Each case study is different because the problem determines the solution.
+***

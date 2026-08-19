@@ -1,7 +1,0 @@
----
-tags:
-  - case-study
----
-
-# Business
-

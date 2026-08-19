@@ -31,9 +31,34 @@
 
 ## Case Studies
 
-* [Engineering](case-studies/software-engineering-case-studies/README.md)
+* [Founding](case-studies/business/README.md)
+  * [BlockByBlock](case-studies/business/blockbyblock.md)
+  * [Bugdasht](case-studies/business/bugdasht.md)
+  * [Khavar](case-studies/business/khavar.md)
+* [Security](case-studies/security/README.md)
+  * [Vent Finance](case-studies/security/vent-finance.md)
+  * [Bugdasht](case-studies/security/bugdasht.md)
+  * [Near Threshold Signatures](case-studies/security/near-threshold-signatures.md)
+  * [MCI](case-studies/security/mci.md)
+* [Performance & Scaling](case-studies/performance-and-scaling/README.md)
+  * [Revision](case-studies/performance-and-scaling/revision.md)
+  * [Vent finance](case-studies/performance-and-scaling/vent-finance.md)
+  * [Vexor Network](case-studies/performance-and-scaling/vexor-network.md)
+* [Reliability](case-studies/reliability/README.md)
+  * [Revision](case-studies/reliability/revision.md)
+  * [Vexor Network](case-studies/reliability/vexor-network.md)
+  * [Vent Finance](case-studies/reliability/vent-finance.md)
+* [Optimization](case-studies/optimization/README.md)
+  * [Vent Finance](case-studies/optimization/vent-finance.md)
+* [Product & UX](case-studies/product-and-ux/README.md)
+  * [Shahin](case-studies/product-and-ux/shahin.md)
+  * [dTip](case-studies/product-and-ux/dtip.md)
+  * [Vexor Network](case-studies/product-and-ux/vexor-network.md)
+* [Automation](case-studies/software-engineering-case-studies/README.md)
   * [Policy as Code for Pull Requests](case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md)
-* [Business](case-studies/business.md)
+  * [Data Aggregation](case-studies/software-engineering-case-studies/data-aggregation.md)
+  * [Report Generation](case-studies/software-engineering-case-studies/report-generation.md)
+  * [Software Releases](case-studies/software-engineering-case-studies/software-releases.md)
 
 ## think
 
