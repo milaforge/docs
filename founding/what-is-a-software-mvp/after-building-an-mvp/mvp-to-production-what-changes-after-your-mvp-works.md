@@ -257,4 +257,4 @@ to:
 
 That shift is what turns an MVP into production software.
 
-If you already have an MVP and are unsure what needs to change before real users depend on it, [get in touch](../../../contact.md) to discuss the technical next steps.
+If you already have an MVP and are unsure what needs to change before real users depend on it, [get in touch](../../../welcome/contact.md) to discuss the technical next steps.

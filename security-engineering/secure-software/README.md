@@ -1,9 +1,8 @@
 ---
 description: How do I build software securely?
-icon: lock
 ---
 
-# Secure Software
+# Secure Theory
 
 My principles / methodology
 

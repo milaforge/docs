@@ -377,4 +377,4 @@ If the company already exists and you need someone to lead engineering, architec
 
 ***
 
-If you're looking for someone who thinks this way about architecture, security, and technical ownership, [my engineering](/broken/pages/sAo035j1e6UnT2MH1UPU) and [security work](https://app.gitbook.com/s/1pCM7Li88yDwlAqdPL23/security-engineering) provides concrete examples.
+If you're looking for someone who thinks this way about architecture, security, and technical ownership, [my engineering](/broken/pages/sAo035j1e6UnT2MH1UPU) and [security work](/broken/pages/5C6gfwUnGMmPjmGf4ety) provides concrete examples.

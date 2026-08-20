@@ -85,4 +85,4 @@ Use change-aware policy when the requirement depends on **what a pull request ch
 
 ### **See the implementation**
 
-I explored this approach in GitHub [Pull Request Policy: Enforcing Conditional Repository Rules](../case-studies/software-engineering-case-studies/policy-as-code-for-pull-requests.md) — a GitHub Action for defining change-aware pull request policies as code.
+I explored this approach in GitHub [Pull Request Policy: Enforcing Conditional Repository Rules](../software-engineering/case-studies/automation/policy-as-code-for-pull-requests.md) — a GitHub Action for defining change-aware pull request policies as code.

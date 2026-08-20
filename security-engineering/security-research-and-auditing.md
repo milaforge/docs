@@ -1,6 +1,5 @@
 ---
 description: Actual evidence of my security works.
-icon: unlock
 ---
 
 # Security Research & Auditing

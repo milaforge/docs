@@ -184,4 +184,4 @@ That is the broader idea behind the project: **policy as code at the pull-reques
 
 ### Background: Pull Request Policies
 
-[beyond-branch-protection.md](../../think/beyond-branch-protection.md "mention") — the problem and reasoning behind this project.
+[beyond-branch-protection.md](../../../writing/beyond-branch-protection.md "mention") — the problem and reasoning behind this project.
