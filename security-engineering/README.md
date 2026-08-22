@@ -34,3 +34,17 @@ This section answers:
 * [Security Automation](case-studies/mci.md)
 * [Security Architecture](case-studies/bugdasht.md)
 
+{% columns %}
+{% column valign="middle" %}
+{% content-ref url="../writing/secure-by-design-before-you-build.md" %}
+[secure-by-design-before-you-build.md](../writing/secure-by-design-before-you-build.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column valign="middle" %}
+{% content-ref url="../writing/beyond-branch-protection.md" %}
+[beyond-branch-protection.md](../writing/beyond-branch-protection.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
