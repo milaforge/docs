@@ -1,5 +1,5 @@
 ---
-description: A collection of projects demonstrating ownership from idea → working product.
+description: Foundations for turning an uncertain idea into a working product.
 icon: person-digging
 layout:
   width: default
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Founding
+# Software Engineering Foundations
 
 This section answers:
 
@@ -32,4 +32,3 @@ This section answers:
 * [Crowdsourcing Platform](business/bugdasht.md)
 * [Even the Best product needs distribution](../software-engineering/case-studies/product-and-ux/dtip.md)
 * [Making simple Camera's a smart physical security camera](../software-engineering/case-studies/product-and-ux/shahin.md)
-

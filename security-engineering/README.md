@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Security Engineering
+# Software Security
 
 This section answers:
 
@@ -31,8 +31,10 @@ This section answers:
 
 * [Security Mapping](secure-software/threat-modeling/trust-boundaries.md)
 * [Vulnerability Research](security-research-and-auditing.md)
-* [Security Automation](case-studies/mci.md)
-* [Security Architecture](case-studies/bugdasht.md)
+
+## Case studies
+
+See [Secured Against Failure](../case-studies/secured-against-failure.md) for the security case studies.
 
 {% columns %}
 {% column valign="middle" %}
@@ -47,4 +49,3 @@ This section answers:
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
