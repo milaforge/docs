@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Contact](welcome/contact.md)
-  * [About](welcome/about.md)
+* [Hello. I’m Milaforge.](README.md)
+  * [Contact](hello.-im-milaforge./contact.md)
+  * [About](hello.-im-milaforge./about.md)
+  * [Selected Works](hello.-im-milaforge./selected-works.md)
 * [Software Engineering](software-engineering/README.md)
   * [Full-Stack](software-engineering/full-stack-software-engineering.md)
   * [Building a React.js Application](software-engineering/building-a-react.js-application.md)

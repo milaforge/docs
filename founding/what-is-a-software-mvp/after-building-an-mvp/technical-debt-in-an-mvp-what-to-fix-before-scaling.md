@@ -98,4 +98,4 @@ If you have just completed an MVP and are deciding what to do next, start with [
 
 ***
 
-Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../../welcome/contact.md) to discuss the technical next steps.
+Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../../hello.-im-milaforge./contact.md) to discuss the technical next steps.

@@ -1,5 +1,5 @@
 ---
-description: taking a product from idea to a live service.
+description: Taking a product from idea to a live service.
 ---
 
 # Bugdasht
@@ -10,8 +10,8 @@ The idea was to build a platform connecting companies with security researchers.
 
 ### **What I did**
 
-As the [Founding Engineer](../../founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/#technical-co-founder), I took responsibility for the product's architecture, backend, integrations, web interface, payments, and reporting. I worked with the founder and early users to turn security requirements into simple product workflows.
+As the [Founding Engineer](../what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/#technical-co-founder), I took responsibility for the product's architecture, backend, integrations, web interface, payments, and reporting. I worked with the founder and early users to turn security requirements into simple product workflows.
 
 ### **Outcome**
 
-The platform went from idea to a live product or [MVP](../../founding/what-is-a-software-mvp/prototype-vs-mvp.md) in **8 months**, including the core workflows needed for customers, researchers, billing, and reporting.
+The platform went from idea to a live product or [MVP](../what-is-a-software-mvp/prototype-vs-mvp.md) in **8 months**, including the core workflows needed for customers, researchers, billing, and reporting.
