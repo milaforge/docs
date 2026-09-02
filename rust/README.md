@@ -5,7 +5,7 @@ icon: osi
 
 # Open Source Contributions
 
-You can always find all the contributions directly on [Github](https://github.com/milaforge).
+Find the latest contributions directly on [Github](https://github.com/milaforge).
 
 
 
