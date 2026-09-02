@@ -23,11 +23,3 @@ layout:
 
 # Thoughts
 
-{% content-ref url="beyond-branch-protection.md" %}
-[beyond-branch-protection.md](beyond-branch-protection.md)
-{% endcontent-ref %}
-
-{% content-ref url="secure-by-design-before-you-build.md" %}
-[secure-by-design-before-you-build.md](secure-by-design-before-you-build.md)
-{% endcontent-ref %}
-
