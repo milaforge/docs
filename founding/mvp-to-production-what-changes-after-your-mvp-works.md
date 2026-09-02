@@ -8,11 +8,11 @@ tags:
 
 # MVP to Production: What Changes After Your MVP Works
 
-An [**MVP**](../) proves that a product can work.
+An [**MVP**](what-is-a-software-mvp.md) proves that a product can work.
 
 **Production software** needs to keep working when real users, real data, failures, and continuous changes are introduced.
 
-Moving from MVP to production is therefore not simply about adding more features. It means reviewing the shortcuts taken during development and making the system sufficiently secure, reliable, maintainable, and operable for its intended use.
+Moving from MVP to production is therefore not simply about adding more features. It means reviewing the shortcuts taken during development and making the system sufficiently secure, reliable, maintainable, and operable for its intended to use.
 
 ### MVP vs. Production
 
@@ -101,7 +101,7 @@ This usually means establishing:
 * Configuration management
 * Secret management
 * Deployment validation
-* Rollback or recovery procedures
+* Roll back or recovery procedures
 
 A deployment should become a controlled and repeatable process rather than a sequence of manual steps that only one person understands.
 
@@ -257,4 +257,4 @@ to:
 
 That shift is what turns an MVP into production software.
 
-If you already have an MVP and are unsure what needs to change before real users depend on it, [get in touch](../../../hello.-im-milaforge./contact.md) to discuss the technical next steps.
+If you already have an MVP and are unsure what needs to change before real users depend on it, [get in touch](../welcome/contact.md) to discuss the technical next steps.

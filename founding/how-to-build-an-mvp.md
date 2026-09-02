@@ -12,7 +12,7 @@ If you have a product idea and want to test whether people will actually use it,
 
 > The goal is not to build a smaller version of the final product. It is to build **enough to test your most important assumptions**.
 
-An [**MVP (Minimum Viable Product)**](../) is the smallest useful version of a product that lets you test your core idea with real users.
+An [**MVP (Minimum Viable Product)**](what-is-a-software-mvp.md) is the smallest useful version of a product that lets you test your core idea with real users.
 
 ## Building an MVP
 
@@ -55,7 +55,7 @@ Depending on the product, you might work with:
 
 Choosing the right technical person can be as important as defining the MVP itself.
 
-See [How to Find a Technical Co-Founder](technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md).
+See [How to Find a Technical Co-Founder](how-to-find-a-technical-co-founder-what-to-look-for.md).
 
 ### 4. Build for learning, not completeness
 

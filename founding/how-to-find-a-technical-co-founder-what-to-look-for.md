@@ -89,7 +89,7 @@ It is understanding questions such as:
 
 These decisions are architectural decisions, not merely implementation details.
 
-[My own security work](../../../../security-engineering/security-research-and-auditing.md#id-2.-near-threshold-signatures-security-research) has increasingly followed this kind of reasoning: start from the resource, identify who should be allowed to access it, minimize privileges, and design controls around the actual failure modes rather than assuming the happy path.
+[My own security work](../rust/security-research-and-auditing.md#id-2.-near-threshold-signatures-security-research) has increasingly followed this kind of reasoning: start from the resource, identify who should be allowed to access it, minimize privileges, and design controls around the actual failure modes rather than assuming the happy path.
 
 #### 4. Look at what someone does when there is no obvious answer
 
@@ -377,4 +377,4 @@ If the company already exists and you need someone to lead engineering, architec
 
 ***
 
-If you're looking for someone who thinks this way about architecture, security, and technical ownership, [my engineering](/broken/pages/sAo035j1e6UnT2MH1UPU) and [security work](/broken/pages/5C6gfwUnGMmPjmGf4ety) provides concrete examples.
+If you're looking for someone who thinks this way about architecture, security, and technical ownership, my [case-studies](../case-studies/ "mention") provides concrete examples.

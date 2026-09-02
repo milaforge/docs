@@ -3,6 +3,7 @@ description: >-
   How I think about preventing security vulnerabilities through better software
   design, with practical examples of least privilege, rate limiting,
   whitelisting, and zero trust.
+icon: memo
 tags:
   - security
   - architecture

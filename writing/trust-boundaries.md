@@ -3,6 +3,10 @@ description: >-
   What a trust boundary is in threat modeling, including trust vs privilege,
   internal services, queues, and security architecture,where to find one in a
   software system, and why it matters for security.
+icon: memo
+tags:
+  - architecture
+  - security
 ---
 
 # Trust Boundaries

@@ -2,6 +2,7 @@
 description: >-
   Branch protection handles global merge rules. Pull request policies enforce
   requirements based on what changes in a pull request.
+icon: memo
 tags:
   - engineering
 ---
@@ -85,4 +86,4 @@ Use change-aware policy when the requirement depends on **what a pull request ch
 
 ### **See the implementation**
 
-I explored this approach in GitHub [Pull Request Policy: Enforcing Conditional Repository Rules](../software-engineering/case-studies/automation/policy-as-code-for-pull-requests.md) — a GitHub Action for defining change-aware pull request policies as code.
+I explored this approach in GitHub [policy-as-code-for-pull-requests.md](../software-engineering/policy-as-code-for-pull-requests.md "mention")— a GitHub Action for defining change-aware pull request policies as code.

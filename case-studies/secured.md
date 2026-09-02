@@ -1,0 +1,11 @@
+---
+description: Systems analyzed or changed to prevent, contain, or detect failure
+icon: shield-check
+---
+
+# Secured
+
+
+
+<table><thead><tr><th align="center">Project</th><th width="206.12109375">What could go wrong</th><th>What I did</th><th>What changed</th></tr></thead><tbody><tr><td align="center">rust-libp2p</td><td>an unauthenticated peer could remotely exhaust memory (potentially on an <strong>Ethereum Lighthouse</strong> / <strong>Polkadot</strong> / <strong>Filecoin</strong> <strong>node</strong>)</td><td>Found and reproduced an unbounded memory-allocation flaw; responsibly disclosed it</td><td><p>The vulnerability was patched and publicly tracked as</p><p><a href="https://github.com/advisories/GHSA-v5hw-cv9c-rpg7"><strong>CVE-2026-35457</strong></a></p></td></tr><tr><td align="center">NEAR Threshold Signatures</td><td>Cryptographic code had risks including <a href="https://github.com/near/threshold-signatures/pull/80">information disclosure</a>, <a href="https://github.com/near/threshold-signatures/issues/194">DoS</a>, <a href="https://github.com/near/threshold-signatures/issues/185">memory errors</a>, <a href="https://github.com/near/threshold-signatures/issues/150">platform assumptions</a></td><td>Identified security weaknesses and contributed fixes, stronger types, verification, and <a href="https://github.com/near/threshold-signatures/pull/186">regression checks</a></td><td>Fewer ways for implementation mistakes to compromise <a href="https://github.com/near/threshold-signatures/pull/212">reliability</a> or cryptographic security</td></tr><tr><td align="center"><a href="https://github.com/google/adk-python/issues/5530">Google ADK</a></td><td>An untrusted filename could cross from a file-read operation into shell execution</td><td>Demonstrated the unsafe path and proposed replacing shell execution with direct file handling</td><td>Established a safer boundary between untrusted file input and command execution</td></tr><tr><td align="center"><a href="https://github.com/milaforge/recon">Recon</a></td><td>secrets can remain buried in Git even after someone deletes them.</td><td>something that finds them before or after that happens.</td><td>working open-source MVP</td></tr></tbody></table>
+

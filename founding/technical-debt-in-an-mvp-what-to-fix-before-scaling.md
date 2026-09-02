@@ -8,7 +8,7 @@ tags:
 
 # Technical Debt in an MVP: What to Fix Before Scaling
 
-An [MVP](../) will usually contain shortcuts. That is not automatically a problem.
+An [MVP](what-is-a-software-mvp.md) will usually contain shortcuts. That is not automatically a problem.
 
 The important question before scaling is:
 
@@ -94,8 +94,8 @@ The goal is to make sure **technical debt does not become the constraint that pr
 
 If you are preparing an MVP for real users, see [mvp-to-production-what-changes-after-your-mvp-works.md](mvp-to-production-what-changes-after-your-mvp-works.md "mention") for the broader production requirements.
 
-If you have just completed an MVP and are deciding what to do next, start with [.](./ "mention").
+If you have just completed an MVP and are deciding what to do next, start with [after-building-an-mvp.md](after-building-an-mvp.md "mention").
 
 ***
 
-Have an MVP and unsure what needs to be fixed before production? [Get in touch](../../../hello.-im-milaforge./contact.md) to discuss the technical next steps.
+Have an MVP and unsure what needs to be fixed before production? [Get in touch](../welcome/contact.md) to discuss the technical next steps.

@@ -36,7 +36,7 @@ Instead of spending months building a complete product based on assumptions, you
 
 An **MVP is usable software released to real users**.
 
-A [**prototype**](./#mvp-vs.-prototype) is usually created to explore or demonstrate an idea. It may not be a functioning product and may never be released publicly.
+A [**prototype**](what-is-a-software-mvp.md#mvp-vs.-prototype) is usually created to explore or demonstrate an idea. It may not be a functioning product and may never be released publicly.
 
 For example, a clickable design in Figma can be a prototype. A working web application that allows your first customers to use the core service is an MVP.
 
@@ -44,7 +44,7 @@ For example, a clickable design in Figma can be a prototype. A working web appli
 
 A founder can build an MVP with a full-stack software developer, a small development team, or a **technical co-founder**.
 
-If you are deciding whether you need a technical co-founder, see [how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/how-to-find-a-technical-co-founder-what-to-look-for.md "mention").
+If you are deciding whether you need a technical co-founder, see [how-to-find-a-technical-co-founder-what-to-look-for.md](how-to-find-a-technical-co-founder-what-to-look-for.md "mention").
 
 The important question is not _"How many features can we build?"_ but:
 
@@ -52,6 +52,6 @@ The important question is not _"How many features can we build?"_ but:
 
 That is the purpose of an MVP.
 
-Learn more about [how-to-build-an-mvp](how-to-build-an-mvp/ "mention").
+Learn more about [how-to-build-an-mvp.md](how-to-build-an-mvp.md "mention").
 
-Further read what to do [after-building-an-mvp](after-building-an-mvp/ "mention").
+Further read what to do [after-building-an-mvp.md](after-building-an-mvp.md "mention").

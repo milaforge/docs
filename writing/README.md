@@ -1,6 +1,6 @@
 ---
-description: I'll try to centralize all my writings here.
-icon: pen
+description: What I care about
+icon: head-side-gear
 layout:
   width: default
   title:
@@ -21,14 +21,10 @@ layout:
     visible: true
 ---
 
-# Writing
+# Thoughts
 
 {% content-ref url="beyond-branch-protection.md" %}
 [beyond-branch-protection.md](beyond-branch-protection.md)
-{% endcontent-ref %}
-
-{% content-ref url="finding-security-vulnerability-in-libp2p.md" %}
-[finding-security-vulnerability-in-libp2p.md](finding-security-vulnerability-in-libp2p.md)
 {% endcontent-ref %}
 
 {% content-ref url="secure-by-design-before-you-build.md" %}
