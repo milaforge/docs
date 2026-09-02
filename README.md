@@ -23,7 +23,7 @@ layout:
 
 # Welcome
 
-I listen first, reduce uncertainty, and stay hands-on from the first technical decision through production.
+I reduce uncertainty, and stay hands-on from the first technical decision through production.
 
 > <h4 align="center">Problem ➛ <a href="founding/prototype-vs-mvp.md">Prototype</a> ➛ <a href="founding/prototype-vs-mvp.md">MVP</a> ➛ Production</h4>
 >
@@ -31,8 +31,5 @@ I listen first, reduce uncertainty, and stay hands-on from the first technical d
 >
 > <p align="center"><a href="welcome/contact.md" class="button secondary" data-icon="person-digging">Tell me about your project</a></p>
 
+<p align="center"><a data-mention href="case-studies/">case-studies</a></p>
 
-
-{% content-ref url="case-studies/" %}
-[case-studies](case-studies/)
-{% endcontent-ref %}
