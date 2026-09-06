@@ -3,6 +3,7 @@
 * [Welcome](README.md)
   * [Contact](welcome/contact.md)
   * [About](welcome/about.md)
+  * [LinkedIn](welcome/linkedin.md)
 * [Case Studies](case-studies/README.md)
   * [Built](case-studies/built.md)
   * [Improved](case-studies/improved.md)

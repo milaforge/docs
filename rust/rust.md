@@ -1,10 +1,13 @@
 ---
-description: Threshold signature schemes for the NEAR MPC system.
+description: >-
+  Contributions to a production cryptography implementation, spanning
+  cryptographic performance, protocol correctness, Rust type design, testing,
+  and security.
 ---
 
 # Near Protocol
 
-> Contributions to a production threshold-signature implementation, spanning cryptographic performance, protocol correctness, Rust type design, testing, and security.
+> **Repository history:** This work was originally contributed to `near/threshold-signatures`. In February 2026, NEAR migrated the project into the `near/mpc` monorepo. Original PR pages were not preserved, but the merged commits and author attribution remain in the official `near/mpc` history.
 
 ## General
 
