@@ -4,7 +4,7 @@ description: The Rust Implementation of the libp2p networking stack.
 
 # LibP2P
 
-### **Published vulnerability disclosure**
+### **1. Published vulnerability disclosure**
 
 **`CVE-2026-35457`**
 
@@ -17,3 +17,11 @@ description: The Rust Implementation of the libp2p networking stack.
 > Discovered an unauthenticated resource-exhaustion vulnerability in the libp2p rendezvous protocol caused by unbounded pagination cookie storage.
 
 \[[Read Github Advisory](https://github.com/libp2p/rust-libp2p/security/advisories/GHSA-v5hw-cv9c-rpg7)]
+
+***
+
+### 2. Prevented accidental secret leakage
+
+&#x20;in rust-libp2p by redacting `pre-shared` keys from debug output.
+
+Merged upstream in PR [#6490](https://github.com/libp2p/rust-libp2p/pull/6490).
