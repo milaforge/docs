@@ -16,6 +16,7 @@
   * [Finding security Vulnerability in libp2p](software-engineering/finding-security-vulnerability-in-libp2p.md)
   * [Building a React.js Application](software-engineering/building-a-react.js-application.md)
 * [Thoughts](writing/README.md)
+  * [Where AI Coding Creates New Bottlenecks](writing/where-ai-coding-creates-new-bottlenecks.md)
   * [Beyond Branch Protection](writing/beyond-branch-protection.md)
   * [Trust Boundaries](writing/trust-boundaries.md)
   * [Secure by Design: Before You Build](writing/secure-by-design-before-you-build.md)
