@@ -12,12 +12,14 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: true
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
