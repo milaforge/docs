@@ -19,13 +19,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Welcome
 
 I reduce uncertainty, and stay hands-on from the first technical decision through production.
 
-> <h4 align="center">Problem ➛ <a href="founding/prototype-vs-mvp.md">Prototype</a> ➛ <a href="founding/prototype-vs-mvp.md">MVP</a> ➛ Production</h4>
+> <h4 align="center">Problem ➛ Prototype ➛ MVP ➛ Production</h4>
 >
 > <h4 align="center"></h4>
 >
