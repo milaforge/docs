@@ -6,6 +6,8 @@
 * [Case Studies](case-studies/README.md)
   * [Built](case-studies/built.md)
   * [Improved](case-studies/improved/README.md)
+    * [From Crashes to Reliable Gameplay](case-studies/improved/from-crashes-to-reliable-gameplay.md)
+    * [10× Capacity at the Same Cost](case-studies/improved/10-capacity-at-the-same-cost.md)
     * [From 7,000 Transactions to Zero](case-studies/improved/from-7-000-transactions-to-zero.md)
   * [Secured](case-studies/secured.md)
 * [Open Source Contributions](rust/README.md)
