@@ -14,7 +14,7 @@ description: >-
 **Performance optimization**
 
 * Batch Lagrange coefficient computation — [754e7d7](https://github.com/near/mpc/commit/754e7d7e05f115a37ab7469c8f70821b931349b8) - [Archived PR #50](https://web.archive.org/web/20250906061254/https://github.com/near/threshold-signatures/pull/50)
-  * \~5× faster coefficient computation / \~80× faster batch inversion
+  * **\~5×** faster coefficient computation / **\~80×** faster batch inversion
 
 **Protocol correctness**
 
