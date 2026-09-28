@@ -1,6 +1,6 @@
 ---
 description: From Unclear Problem to Dependable Product.
-icon: hand-wave
+icon: shapes
 layout:
   width: default
   title:
