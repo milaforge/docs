@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Contact](welcome/contact.md)
-  * [About](welcome/about.md)
+* [Build](README.md)
+  * [Contact](build/contact.md)
+  * [About](build/about.md)
 * [Case Studies](case-studies/README.md)
   * [Built](case-studies/built.md)
   * [Improved](case-studies/improved/README.md)
@@ -10,7 +10,7 @@
     * [10× Capacity at the Same Cost](case-studies/improved/10-capacity-at-the-same-cost.md)
     * [From 7,000 Transactions to Zero](case-studies/improved/from-7-000-transactions-to-zero.md)
   * [Secured](case-studies/secured.md)
-* [Open Source Contributions](rust/README.md)
+* [Open Source](rust/README.md)
   * [Near Protocol](rust/rust.md)
   * [LibP2P](rust/security-research-and-auditing.md)
 * [DevLog](software-engineering/README.md)

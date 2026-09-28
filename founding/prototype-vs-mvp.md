@@ -52,4 +52,4 @@ The mistake I try to avoid is building an MVP when a prototype would answer the 
 
 The goal is not to build the smallest product possible. It is to build the **smallest thing that can answer the most important unanswered question**.
 
-If you are unsure whether your idea needs a prototype or an MVP, [contact me](../welcome/contact.md) and I can help determine what should actually be built.
+If you are unsure whether your idea needs a prototype or an MVP, [contact me](../build/contact.md) and I can help determine what should actually be built.

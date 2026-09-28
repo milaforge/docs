@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Build
 
 I reduce uncertainty, and stay hands-on from the first technical decision through production.
 
@@ -31,7 +31,5 @@ I reduce uncertainty, and stay hands-on from the first technical decision throug
 >
 > <h4 align="center"></h4>
 >
-> <p align="center"><a href="welcome/contact.md" class="button secondary" data-icon="person-digging">Tell me about your project</a></p>
-
-<p align="center"><a data-mention href="case-studies/">case-studies</a></p>
+> <p align="center"><a href="build/contact.md" class="button secondary" data-icon="person-digging">Tell me about your project</a></p>
 
