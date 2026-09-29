@@ -1,17 +1,41 @@
 ---
-description: Taking a product from idea to a live service.
+description: Turning security-sensitive requirements into a product customers could use.
 ---
 
-# Bugdasht
+# BugDasht
 
-### **Problem**
+BugDasht went from an ambiguous security-product requirement to a live platform used by real customers. I owned the backend and operating foundation while helping turn security constraints into workflows that companies and researchers could actually use.
 
-The idea was to build a platform connecting companies with security researchers. It needed to become a real service, not just a concept.
+## Starting point
 
-### **What I did**
+The goal was to create a platform where companies could run bug-bounty programs and work with security researchers. The initial need was clear at a high level, but the product boundaries and operating workflows still had to be defined.
 
-As the [Founding Engineer](../what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/#technical-co-founder), I took responsibility for the product's architecture, backend, integrations, web interface, payments, and reporting. I worked with the founder and early users to turn security requirements into simple product workflows.
+This was also a security-sensitive system. It needed to handle reports, permissions, payments, and customer-facing records in ways that were usable and auditable. A feature-only implementation would not have been enough.
 
-### **Outcome**
+## My responsibility
 
-The platform went from idea to a live product or [MVP](../what-is-a-software-mvp/prototype-vs-mvp.md) in **8 months**, including the core workflows needed for customers, researchers, billing, and reporting.
+As founding engineer, I worked with the founder and early users to identify the useful scope and translate security requirements into product workflows. I owned:
+
+* system architecture;
+* the Laravel/PHP backend;
+* database design;
+* infrastructure and deployment;
+* third-party integrations;
+* payments and reporting;
+* security-critical implementation.
+
+I partnered with a frontend developer on the user-facing experience rather than claiming sole ownership of every screen.
+
+## From requirement to operating product
+
+The work crossed product and engineering boundaries. A security rule had to become an understandable action for a company or researcher. That action then needed authorization, persistent state, reporting, and an operational path when something failed.
+
+I treated auditability and reporting as part of the product rather than administrative work to add later. The backend and data model had to preserve the information required to understand important actions and support real customer workflows.
+
+The infrastructure and integrations were built alongside the application so the product could be deployed and operated, not merely demonstrated.
+
+## Outcome
+
+Within approximately **eight months**, BugDasht became a live customer-facing platform with the core workflows needed by companies and security researchers. It progressed beyond a prototype into real customer use and remained live beyond its initial launch.
+
+This case supports the full delivery arc: an uncertain requirement, product definition, technical implementation, production delivery, and continued operation.

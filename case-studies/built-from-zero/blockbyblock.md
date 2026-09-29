@@ -1,19 +1,37 @@
 ---
-description: turning an unclear idea into something usable for validation.
+description: Taking a community-platform concept to a deployable pre-beta foundation.
 ---
 
 # BlockByBlock
 
-### Problem
+BlockByBlock moved from a product concept to a deployable pre-beta system. I worked across the user experience, administration, APIs, authentication, data, infrastructure, and delivery pipeline so the product could be tested as a coherent system.
 
-We had a product idea, but needed something concrete to test with users and investors without spending months building the full product.
+## Starting point
 
-> We needed a [prototype](../../founding/what-is-a-software-mvp/prototype-vs-mvp.md), not an [MVP](../../founding/what-is-a-software-mvp/).
+The initial idea was a community platform, but the useful workflows and technical shape were still uncertain. We first needed something concrete enough to test with users and investors without committing months to an unvalidated implementation.
 
-### What I did
+I worked with the other founder to define the smallest useful version and built a realistic React prototype in **10 days**. That prototype made the product discussable and testable. It also clarified what the working product would need beyond its visible screens.
 
-As the [Technical Co-Founder](../../founding/what-is-a-software-mvp/how-to-build-an-mvp/technical-co-founder-vs-cto-which-one-does-a-startup-need/), I worked with the other founder to define the smallest useful version and built a working demo in **10 days**. I kept the structure usable beyond the demo rather than treating it as throwaway work.
+## From prototype to product foundation
 
-### Outcome
+As technical co-founder, I carried the work across the system:
 
-We had a realistic prototype (a mock ReactJS Web Application deployed on Vercel) to use for early validation and fundraising, with a foundation that could grow into the full product.
+* separate user and administrator workflows;
+* frontend applications and Node/Express APIs;
+* authentication with Google Cloud Identity Platform;
+* Cloud Run for the application APIs;
+* Firebase Hosting for the web applications;
+* Firestore for authoritative product state;
+* Redis for leaderboard caching;
+* Terraform for repeatable infrastructure;
+* Cloud Build for repeatable delivery.
+
+The central architectural decision was to keep ownership of state clear. Firestore remained the source of truth. Redis accelerated leaderboard access without becoming a second authority that could silently diverge from the product data.
+
+Infrastructure and deployment were part of the product foundation from the beginning. Terraform and Cloud Build made environments and releases repeatable as the system moved beyond the initial demo.
+
+## Outcome
+
+The work produced a realistic prototype for early validation and fundraising, followed by a deployable pre-beta foundation covering both product workflows and operations.
+
+The project reached pre-beta. Public launch, customer traction, and revenue are outside the evidence available for this case study.
