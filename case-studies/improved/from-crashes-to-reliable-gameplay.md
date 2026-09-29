@@ -1,8 +1,6 @@
 ---
 description: >-
-  How I diagnosed an MVP reliability problem and changed failure behavior from
-  application crashes to controlled recovery. From 65% to 92% Crash-Free
-  Sessions.
+  Fewer crashes interrupting gameplay for Revision's players.
 ---
 
 # From Crashes to Reliable Gameplay

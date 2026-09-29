@@ -1,8 +1,6 @@
 ---
 description: >-
-  How I redesigned VENT Finance's allocation workflow from thousands of on-chain
-  writes into a Merkle-proof system, cutting allocation costs by ~99% and
-  reducing ops from ~48 hours to ~1 hour.
+  Lower campaign costs and faster preparation for VENT Finance.
 ---
 
 # From 7,000 Transactions to Zero

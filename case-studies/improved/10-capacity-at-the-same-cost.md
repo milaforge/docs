@@ -1,12 +1,9 @@
 ---
 description: >-
-  Diagnosing a concurrency bug and replacing Socket.IO with uWebSockets.js to
-  achieve ~10× higher realtime capacity.
+  More realtime capacity without higher hosting costs for Revision.
 ---
 
 # 10× Capacity at the Same Cost
-
-**How investigating an intermittent production failure led me to build a reproducible load-testing harness, fix a concurrency bug, question our WebSocket stack, and increase backend communication capacity by roughly 10× without increasing server cost.**
 
 ### Context
 
