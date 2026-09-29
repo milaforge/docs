@@ -19,3 +19,7 @@ https://gitbook.com/docs/skill.md
 When making changes, preserve GitBook sync metadata such as frontmatter, `SUMMARY.md`, `docs.yaml`, `.gitbook/`, and asset links unless the requested edit explicitly requires changing them.
 
 <!-- gitbook-agent-instructions:end -->
+
+## Portfolio Writing
+
+Position the portfolio around end-to-end delivery: taking an unclear product or technical need through definition, implementation, and production. Lead showcases with the strongest complete evidence of that arc, and label prototypes, alpha, beta, and production work accurately. Lead homepage project examples, case-study summaries, and page descriptions with a succinct business outcome as evidence of that responsibility. Support the outcome with project decisions, technical details, and measurements in the page content that follows. Keep claims within what the available evidence supports.
