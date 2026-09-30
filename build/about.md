@@ -1,16 +1,12 @@
 ---
-description: >-
-  I’m a hands-on software engineer and technical lead focused on turning
-  uncertain product ideas into working, reliable systems.
+description: Hands-on engineering and technical decisions from uncertain idea to production.
 icon: user-vneck
 ---
 
 # About
 
-I usually work where the problem is not fully understood yet. I identify the assumptions that matter, build the smallest useful version, test it against reality, and use what we learn to decide what should be built next.
+I’m Milaforge, a software engineer and technical lead. I help teams define what to build, implement it, and carry it into production.
 
-My work has taken me across backend engineering, infrastructure, automation, security, reliability, and distributed systems because I tend to follow problems end to end.
+I identify a key assumption, build the smallest useful version, and test it before deciding what comes next. Correctness, security, and reliability shape the implementation as the product evolves.
 
-I’m particularly interested in systems where correctness matters: financial software, infrastructure, security-sensitive applications, and products with complex rules or failure modes.
-
-This site documents the systems I’ve built, improved, secured, and studied.
+[See the work →](../case-studies/README.md)

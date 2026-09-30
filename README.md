@@ -1,5 +1,5 @@
 ---
-description: End-to-end technical delivery, from an unclear need to a dependable product.
+description: From uncertain software ideas to production, with technical risks tested early.
 icon: shapes
 layout:
   width: default
@@ -25,46 +25,38 @@ layout:
 
 # Build
 
-I take unclear product and technical needs from the first decision through production: defining the useful scope, building the system, and delivering a dependable result.
+Milaforge helps teams turn uncertain software ideas into production-ready products through hands-on engineering. I build in small, useful steps, test key assumptions, and make decisions that account for correctness, security, and reliability.
 
-> <h4 align="center">Problem ➛ Prototype ➛ MVP ➛ Production</h4>
->
-> <h4 align="center"></h4>
->
-> <p align="center"><a href="build/contact.md" class="button secondary" data-icon="person-digging">Tell me about your project</a></p>
+[Talk about your project →](build/contact.md)
 
-## End-to-end delivery showcase
+## Build
 
-### BugDasht
+### BugDasht — security workflows in customer use
 
-**Ambiguous security requirement → customer-facing product**
+**Production · Lead backend engineer**
 
-Defined the useful scope, built the backend and operating foundation, and helped take the platform into real customer use.
+Companies needed a way to run bug-bounty programs; the workflows were still undefined. I shaped the scope with the founder and early users, then built the backend and operating foundation around permissions, payments, and auditable records. The platform reached customer use in about eight months and continued operating beyond launch.
 
 [Read the case study →](case-studies/built-from-zero/bugdasht.md)
 
-### Vexor Network
+## Improve
 
-**Early-stage product → controlled beta launch**
+### Revision — more realtime capacity on the same budget
 
-Worked across the application, delivery pipeline, and production controls to make the first rollout safer and easier to operate.
+**Production · Lead backend engineer**
 
-[Read the case study →](case-studies/built-from-zero/vexor-network.md)
+Peak-time failures had no reliable trigger. I built a load harness, reproduced a race condition, and redesigned the affected state access. With that failure resolved under the same test load, I used the harness to compare transports. A roughly 10× capacity gain in the benchmark justified migrating the realtime backend.
 
-### BlockByBlock
+[Read the case study →](case-studies/improved/10-capacity-at-the-same-cost.md)
 
-**Product concept → deployable pre-beta foundation**
+## Secure
 
-Turned an idea into a testable prototype, then built the user, admin, API, data, infrastructure, and deployment foundations needed for pre-beta.
+### rust-libp2p — a memory-exhaustion flaw disclosed and patched
 
-[Read the case study →](case-studies/built-from-zero/blockbyblock.md)
+**Released library · Security research**
 
-### CommunityPulse
+Could valid network requests exhaust server memory? I reproduced unbounded pagination-state growth and reported it privately. The finding led to a public advisory; maintainers bounded cookie storage in the patched release.
 
-**Raw community activity → controlled AI-assisted workflows**
+[Read the case study →](rust/security-research-and-auditing.md)
 
-Built an alpha-stage product that turns Telegram activity into useful reports and suggested actions while keeping consequential communication under human control.
-
-[Read the case study →](case-studies/built-from-zero/communitypulse.md)
-
-[Explore the case studies →](case-studies/README.md)
+[All case studies →](case-studies/README.md)
